@@ -1,0 +1,16 @@
+{
+    "patients": [
+        {
+            "name": "arman",
+            "age": "17",
+            "gender": "male",
+            "contact": "1234567890",
+            "disease": "fever",
+            "id_no": "rW5108",
+            "patients no": "P101"
+        }
+    ],
+    "doctors": [],
+    "appointments": [],
+    "bills": []
+}
