@@ -1,4 +1,4 @@
-Hospital Management System
+##Hospital Management System
 
 This is a small Python-based project designed to manage hospital data efficiently.
 
